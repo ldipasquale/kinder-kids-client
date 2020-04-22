@@ -1,0 +1,27 @@
+{
+  "extends": "airbnb",
+  "parserOptions":{
+    "ecmaFeatures": {
+      "experimentalObjectRestSpread": true
+    }
+  },
+  "rules": {
+    "semi": [2, "never"],
+    "arrow-parens": "off",
+    "react/jsx-props-no-spreading": "off",
+    "object-curly-newline": "off",
+    "react/jsx-filename-extension": "off",
+    "react/destructuring-assignment": "off",
+    "import/no-extraneous-dependencies": "off",
+    "import/extensions": "off",
+    "import/no-unresolved": "off",
+    "react/no-danger": "off",
+    "react/forbid-prop-types": "off",
+    "new-cap": "off",
+    "default-case": "off",
+    "no-nested-ternary": "off",
+    "max-len": ["error", 120],
+    "react/prop-types": "off",
+    "func-names": "off"
+  }
+}

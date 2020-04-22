@@ -1,0 +1,8 @@
+export { default as Category } from './Category'
+export { default as ClothingType } from './ClothingType'
+export { default as Color } from './Color'
+export { default as File } from './File'
+export { default as Item } from './Item'
+export { default as Manufacturer } from './Manufacturer'
+export { default as Material } from './Material'
+export { default as Size } from './Size'
