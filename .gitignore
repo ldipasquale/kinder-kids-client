@@ -13,5 +13,5 @@ web-report/
 # macOS
 .DS_Store
 
-config/api.js
-config/aws.js
+src/config/api.js
+src/config/aws.js
